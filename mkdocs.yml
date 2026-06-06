@@ -1,0 +1,34 @@
+site_name: Orion Documentation
+site_url: https://almarelplugins.github.io/new-catalog/
+docs_dir: .
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Community: index.md
+  - Brushes: brushes.md
+  - Masks: masks.md
+  - Patterns: patterns.md
+  - Commands: commands.md
+  - Permissions: permissions.md
