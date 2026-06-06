@@ -1,6 +1,5 @@
 site_name: Orion Documentation
 site_url: https://almarelplugins.github.io/new-catalog/
-docs_dir: .
 
 theme:
   name: material
