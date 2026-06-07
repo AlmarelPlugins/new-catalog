@@ -1,3 +1,3 @@
-Patterns
+#flowers[frequency][blocks]
 
-Описание паттернов будет добавлено позже.
+#grass[frequency][blocks]
