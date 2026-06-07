@@ -9,13 +9,13 @@ theme:
       primary: black
       accent: blue
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-4
         name: Тёмная тема
     - scheme: slate
       primary: black
       accent: blue
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: Светлая тема
   features:
     - navigation.tabs
