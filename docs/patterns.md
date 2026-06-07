@@ -2,8 +2,8 @@ Patterns
 
 Flowers
 Генерирует траву реалистичными полянками вместо хаотичного разброса.
-#flowers[frequency]
+`#flowers[frequency]`
 
 Grass
 Генерирует полянки трав и цветов.
-#grass[frequency]
+`#grass[frequency]`
