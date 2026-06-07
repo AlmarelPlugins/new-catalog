@@ -1,5 +1,9 @@
 Patterns
 
-#flowers[frequency][blocks]
+Flowers
+Генерирует траву реалистичными полянками вместо хаотичного разброса.
+#flowers[frequency]
 
-#grass[frequency][blocks]
+Grass
+Генерирует полянки трав и цветов.
+#grass[frequency]

@@ -1,3 +1,5 @@
 Brushes
 
-/br plump [block] [size] - создает булыжник с выпуклой формой
+Brush Plump
+Кисть, создающая булыжник с выпуклой формой
+/br plump [block] [size] 
