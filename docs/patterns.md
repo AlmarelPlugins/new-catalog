@@ -8,3 +8,4 @@ Grass
 Генерирует полянки трав и цветов.
 
 `#grass[frequency]`
+![Нет картинки](images/pattern_grass.png)
