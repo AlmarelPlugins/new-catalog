@@ -31,3 +31,6 @@ nav:
   - Patterns: patterns.md
   - Commands: commands.md
   - Permissions: permissions.md
+
+markdown_extensions:
+  - attr_list
